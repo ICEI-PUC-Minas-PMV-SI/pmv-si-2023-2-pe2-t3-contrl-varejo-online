@@ -21,4 +21,4 @@ clientes visando uma transição suave e intuitiva.
 
 ## Professor
 
-* Nome completo do professor
+* Juliana Amaral Baroni

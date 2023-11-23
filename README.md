@@ -1,4 +1,4 @@
-# Nome do projeto
+# ConTRL - Varejo online
 
 A mudança digital é impulsionada por consumidores e empresas de e-commerce,
 mas enfrenta desafios logísticos. A gestão eficaz de cadastros é vital para personalização e

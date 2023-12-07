@@ -1,7 +1,7 @@
 # Lista dos processos de negócio do sistema
 
-* login.bpmn - Processo de login.
-* agendar.bpmn - Processo de agendamento.
-* entregar.bpmn - Processo de entrega.
+* (Processo de Vendas- TB) - turma3online.bpmn - Processo de Vendas.
+* (Cadastro de Produtos - TB) - turma3online.bpmn - Cadastro de Produtos.
+* (Cadastro de Cliente - TB) - turma3online.bpmn - Cadastro de Clientes.
 
 
